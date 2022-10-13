@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/dev.luizera/)
 
 💻 Full Stack developer developer in development.<br>
-📚 Electrical Engineering Student at Ufes <br>
+📚 Electrical Engineering Student at UFES <br>
 💼 Technology Consultant at EJ CT Junior
 
 <div align="left" >
