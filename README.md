@@ -8,14 +8,14 @@
 📚 Electrical Engineering Student at UFES <br>
 💼 Technology Consultant at EJ CT Junior
 
-<div align="left" >
+<div  >
 
   ![LuizEduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=luizeduardovae&show_icons=true&theme=tokyonight)
   
 </div>
 
-<div align="left" >
+<div >
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuizEduardoVae/LuizEduardoVae/blob/output/github-contribution-grid-snake.svg)
   
 </div>
