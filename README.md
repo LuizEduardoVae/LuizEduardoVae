@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**LuizEduardoVae/LuizEduardoVae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi! I'm Luiz Eduardo</h1>
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-vedoato-503a57252/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/dev.luizera/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack developer developer in development.<br>
+📚 Electrical Engineering Student at Ufes <br>
+💼 Technology Consultant at EJ CT Junior
+
+<div align="left" >
+
+  ![LuizEduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=luizeduardovae&show_icons=true&theme=tokyonight)
+  
+</div>
+
+<div align="left" >
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
