@@ -10,12 +10,12 @@
 
 <div  >
 
-  ![LuizEduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=luizeduardovae&show_icons=true&theme=tokyonight)
+  
   
 </div>
 
 <div >
 
-  ![Snake animation](https://github.com/luizeduardovae/luizeduardovae/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
