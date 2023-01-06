@@ -6,7 +6,7 @@
 
 💻 Full Stack developer in development.<br>
 📚 Electrical Engineering Student at UFES <br>
-💼 Technology Consultant at EJ CT Junior
+💼 Front End developer at EJ CT Junior
 
 <div  >
 
