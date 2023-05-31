@@ -5,8 +5,8 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.luizera/)
 
 💻 IOS developer in development.<br>
-📚 Electrical Engineering Student at UFES <br>
-💼 Front End developer at EJ CT Junior
+📚 Electrical Engineering Student at UFES. <br>
+💼 Machine Learning Engineer in development.
 
 <div  >
 
