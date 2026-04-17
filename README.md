@@ -1,20 +1,7 @@
-
 <h1>Hi! I'm Luiz Eduardo</h1>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizeduardovae/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.luizera/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luizvedoatowebsite.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizeduardovae/)
 
-💻 Machine Learning Engineer in development.<br>
-📚 Electrical Engineering Student at UFES. <br>
-
-<div  >
-
-  
-  
-</div>
-
-<div >
-
-  
-  
-</div>
+💻 Computational Neuroscientist in development.<br>
+📚 Electrical Engineering Student at UFES.<br>
